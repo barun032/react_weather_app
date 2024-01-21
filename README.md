@@ -6,10 +6,8 @@
 
 #Screenshot
 1. Getting the current location 
-![Screenshot (1)](https://github.com/barun032/react_weather_app/assets/107342609/3bcfb796-a9a6-4e8e-8495-81226a153809)
+![Screenshot (1)](https://github.com/barun032/react_weather_app/assets/107342609/10408bad-c12c-476d-9d26-8837eb5a2674)
 
 2. Displayed weather
-![Screenshot (2)](https://github.com/barun032/react_weather_app/assets/107342609/ab520a96-d51c-484c-adda-4fd753aeb592)
+![Screenshot (2)](https://github.com/barun032/react_weather_app/assets/107342609/66869cc7-3b74-42c7-87f9-1fded27df0cd)
 
-
-** it is a free weather api so may not be accurate result.
